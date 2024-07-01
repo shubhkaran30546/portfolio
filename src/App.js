@@ -9,6 +9,7 @@ import Projects from './components/Projects';
 
 function App() {
   return (
+    <body>
     <Router>
       <Navbar title="Home" className="navbar"/>
       <Routes>
@@ -19,6 +20,7 @@ function App() {
       </Routes>
       <div className="bottom-line"></div>
     </Router>
+    </body>
   );
 }
 
