@@ -5,6 +5,7 @@ import { FaGraduationCap } from 'react-icons/fa';
 
 export default function About() {
   return (
+    <body>
     <div >
       <h2 className='aboutheader'>About Me!</h2>
         <p className="summary">I am a 4th year student studying in Computing Science at the University of Alberta. I am passionate about computer networks and security. With a strong focus on these domains, I am dedicated to expanding my knowledge and expertise in this ever-evolving field.
@@ -49,6 +50,7 @@ With a commitment to continuous learning and professional growth, I am excited a
         </div>
       </div>
       </div>
+      </body>
       
   )
 }

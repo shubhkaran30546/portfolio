@@ -25,6 +25,7 @@ export default function Projects() {
       ];
     
   return (
+    <body>
     <div >
     <h2 className='aboutheader'>My Projects</h2>
     <div className="projects-container">
@@ -41,5 +42,6 @@ export default function Projects() {
       ))}
     </div>
     </div>
+    </body>
   );
 }
