@@ -31,7 +31,7 @@ export default function Projects() {
       {projects.map((project, index) => (
         <div className="project-card" key={index}>
           <a href={project.link} target="_blank" rel="noopener noreferrer">
-            <img src={project.imgSrc} alt={project.title} className="project-image" />
+            <img src={process.env.PUBLIC_URL + project.imgSrc} alt={project.title} className="project-image" />
             <div className="overlay">
               <div className="text">{project.description}</div>
             </div>
