@@ -5,10 +5,11 @@ import Profile from './components/Profile';
 import Contact from './components/Contact';
 import About from './components/About';
 import Projects from './components/Projects';
+import './App.css'; // Ensure this line is present
 
 function App() {
   return (
-    <div>
+    <div className="App">
       <Router basename="/portfolio">
         <Navbar title="Home" className="navbar" />
         <Routes>
@@ -18,7 +19,6 @@ function App() {
           <Route path="/about" element={<About />} />
           <Route path="/projects" element={<Projects />} />
         </Routes>
-        <div className="bottom-line"></div>
       </Router>
     </div>
   );
