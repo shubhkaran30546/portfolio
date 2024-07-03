@@ -43,6 +43,8 @@ body {
   align-items: center;
   width: 45%;
   height: auto;
+  background-color: #161617;
+  color: rgba(240, 248, 255, 0.53);
 }
 
 h1 {
@@ -56,6 +58,8 @@ h1 {
   display: inline-block;
   width: 100%;
   padding: 10px;
+  background-color: #161617;
+  color: rgba(240, 248, 255, 0.53);
 }
 
 .bottom-line {
