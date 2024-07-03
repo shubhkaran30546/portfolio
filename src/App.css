@@ -123,6 +123,8 @@ h2 {
   font-size: 350%;
   margin: 50px;
   margin-left: 15%;
+  background-color: #161617;
+  color: rgba(240, 248, 255, 0.53);
 }
 
 .phone {
@@ -161,6 +163,8 @@ h2 {
 .about {
   overflow: scroll;
   scroll-behavior: smooth;
+  background-color: #161617;
+  color: rgba(240, 248, 255, 0.53);
 }
 
 .about1 {
@@ -174,11 +178,14 @@ h2 {
   background-color: black;
   margin-left: 10%;
   margin-right: 10%;
+  color: rgba(240, 248, 255, 0.53);
 }
 
 .aboutheader {
   padding-left: 25%;
   margin-top: 5%;
+  color: rgba(240, 248, 255, 0.53);
+  
 }
 
 .aboutheader1 {
@@ -190,12 +197,14 @@ h2 {
   padding-top: 1%;
   padding-bottom: 2%;
   text-align: center;
+  color: rgba(240, 248, 255, 0.53);
 }
 
 .summary {
   padding-top: 0%;
   padding-left: 10%;
   padding-right: 10%;
+  color: rgba(240, 248, 255, 0.53);
 }
 
 .about2 {
@@ -204,11 +213,13 @@ h2 {
   padding-left: 5%;
   padding-right: 5%;
   word-spacing: 20px;
+  color: rgba(240, 248, 255, 0.53);
 }
 
 .education {
   padding-top: 3%;
   text-align: center;
+  color: rgba(240, 248, 255, 0.53);
 }
 
 span {
@@ -226,6 +237,7 @@ span {
   border-radius: 50%;
   background-color: #333;
   margin-right: 20px;
+  color: rgba(240, 248, 255, 0.53);
 }
 
 .education-section {
@@ -234,6 +246,7 @@ span {
   display: flex;
   align-items: center;
   padding-bottom: 2%;
+  color: rgba(240, 248, 255, 0.53);
 }
 
 .education-details {
