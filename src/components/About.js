@@ -5,9 +5,9 @@ import { FaGraduationCap } from 'react-icons/fa';
 
 export default function About() {
   return (
-    <body >
+    <div >
       
-      </body>
+      </div>
       
   )
 }
