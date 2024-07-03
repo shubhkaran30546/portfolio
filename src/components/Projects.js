@@ -26,7 +26,6 @@ export default function Projects() {
     
   return (
     <body>
-    <div >
     <h2 className='aboutheader'>My Projects</h2>
     <div className="projects-container">
       {projects.map((project, index) => (
@@ -40,7 +39,6 @@ export default function Projects() {
           <h3 className="project-title">{project.title}</h3>
         </div>
       ))}
-    </div>
     </div>
     </body>
   );

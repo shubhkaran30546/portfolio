@@ -5,8 +5,7 @@ import { FaGraduationCap } from 'react-icons/fa';
 
 export default function About() {
   return (
-    <body>
-    <div >
+    <body >
       <h2 className='aboutheader'>About Me!</h2>
         <p className="summary">I am a 4th year student studying in Computing Science at the University of Alberta. I am passionate about computer networks and security. With a strong focus on these domains, I am dedicated to expanding my knowledge and expertise in this ever-evolving field.
 I am currently preparing to take the Cisco Certified Network Associate (CCNA) and cybersecurity exams to earn these valuable certifications. 
@@ -48,7 +47,6 @@ With a commitment to continuous learning and professional growth, I am excited a
           </h3>
           <p>Spring Dale Senior School</p>
         </div>
-      </div>
       </div>
       </body>
       

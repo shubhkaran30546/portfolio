@@ -7,7 +7,6 @@ export default function Contact() {
     <>
     <script src="https://kit.fontawesome.com/e25a4b5b67.js" crossorigin="anonymous"></script>
       <body>
-      <div>
         <section id="contact">
           <h2 className='connect'>Lets Connect!</h2>
           <div className = "phone">
@@ -23,7 +22,6 @@ export default function Contact() {
           <a href="https://www.linkedin.com/in/shubhkaran-dhillon-a73651217" target="_blank" rel="noopener noreferrer">
           <FaLinkedin className="contact-logo" /></a></div>
         </section>
-      </div>
       </body>
     </>
   );
