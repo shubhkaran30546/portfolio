@@ -10,9 +10,8 @@ export default function Profile() {
     document.body.removeChild(link);
   };
   return (
-    <section id = "firstSection">
     <body>
-      <div className="top-line"></div>
+      {/* <div className="top-line"></div> */}
       <img className="some" src={process.env.PUBLIC_URL + '/shubh.jpg'} alt="Shubhkaran Dhillon profile" />
         <div className="intro">
           <h1>Hi, My name is <span className="beige">Shubhkaran Dhillon</span> </h1>
@@ -23,8 +22,6 @@ export default function Profile() {
           Download CV
         </button>
         </div>
-        
       </body>
-      </section>
   )
 }
