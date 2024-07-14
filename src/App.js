@@ -9,7 +9,6 @@ import './App.css'; // Ensure this line is present
 
 function App() {
   return (
-    <div className="App">
       <Router basename="/portfolio">
         <Navbar title="Home" className="navbar" />
         <Routes>
@@ -20,7 +19,6 @@ function App() {
           <Route path="/projects" element={<Projects />} />
         </Routes>
       </Router>
-    </div>
   );
 }
 
