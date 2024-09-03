@@ -1,4 +1,5 @@
 import React from 'react';
+import './App.css';
 import { FaGithub, FaLinkedin, FaGraduationCap } from "react-icons/fa";
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faEnvelope, faGraduationCap, faPhone } from '@fortawesome/free-solid-svg-icons';
