@@ -11,7 +11,7 @@ export default function Profile() {
   };
   return (
     <body>
-      {/* <div className="top-line"></div> */}
+      <div className="bottom-line"></div>
       <img className="some" src={process.env.PUBLIC_URL + '/shubh.jpg'} alt="Shubhkaran Dhillon profile" />
         <div className="intro">
           <h1>Hi, My name is <span className="beige">Shubhkaran Dhillon</span> </h1>

@@ -14,9 +14,9 @@ I recently earned the AWS Cloud Practitioner certification, which has provided m
 With a commitment to continuous learning and professional growth, I am excited about the opportunities in the field of computer networks and security. I look forward to contributing to innovative projects and collaborating with like-minded professionals to create secure and efficient network infrastructures.</p>
       <section className = "about1">
       <h3 className='aboutheader1'>Language & Technologies</h3>
-      <p className = "about2">Python Java XML C/C++ HTML CSS  Javascript/TypeScript SQL NoSQL R</p>
-      <p className = "about2">React.js Django TensorFlow PyTorch Bootstrap Git AndroidSDK Node.js MongoDB Wireshark Cnet Firebase</p>
-      <p className = "about2">Azure Nmap Snort</p>
+      <p className = "about2">Python Java XML C/C++ HTML CSS  Javascript SQL NoSQL R PHP C#</p>
+      <p className = "about2">React.js Django TensorFlow PyTorch Bootstrap Git AndroidSDK Node.js MongoDB Wireshark Cnet </p>
+      <p className = "about2">Azure Nmap Snort AWS ASP.NET</p>
       </section>
       <section className = "about1">
       <h3 className='aboutheader1'>Concepts</h3>
@@ -47,6 +47,7 @@ With a commitment to continuous learning and professional growth, I am excited a
           <p>Spring Dale Senior School</p>
         </div>
       </div>
+      <div className="bottom-line"></div>
       </body>
       
   )

@@ -22,7 +22,9 @@ export default function Contact() {
           <a href="https://www.linkedin.com/in/shubhkaran-dhillon-a73651217" target="_blank" rel="noopener noreferrer">
           <FaLinkedin className="contact-logo" /></a></div>
         </section>
+        <div className="bottom-line"></div>
       </body>
+      
     </>
   );
 }

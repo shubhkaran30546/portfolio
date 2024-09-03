@@ -14,7 +14,7 @@ body {
   position: fixed;
   top: 0;
   width: 100%;
-  height: 7%;
+  height: 52px;
   background-color: #333;
   z-index: 1000;
 }
@@ -176,8 +176,9 @@ h2 {
 }
 
 .aboutheader {
-  text-align: center;
-  padding-left: 0%;
+  /* text-align: center; */
+  margin-left: 580px;
+  
   margin-top: 5%;
   color: rgba(240, 248, 255, 0.53);
   
@@ -231,6 +232,7 @@ span {
   border-radius: 50%;
   margin-right: 20px;
   color: rgba(240, 248, 255, 0.53);
+  background-color: black;
 }
 
 .education-section {
@@ -346,8 +348,8 @@ span {
 
   h2 {
     font-size: 200%;
-    margin: 20px;
-    margin-left: 5%;
+    margin-top: 20px;
+    /* margin-left: 5%; */
   }
 
   .phone {
@@ -395,12 +397,12 @@ span {
   h1 {
     font-size: 32px;
   }
-
+/* 
   h2 {
     font-size: 250%;
     margin: 30px;
-    margin-left: 10%;
-  }
+    
+  } */
 
   .phone {
     font-size: 110%;
