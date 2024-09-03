@@ -1,7 +1,7 @@
 import React from 'react';
 import '/Users/shubhkarandhillon/Documents/portfolio/my-app/src/App.css';
 import { Link } from 'react-router-dom';
-import './App.css';
+
 export default function Navbar(props) {
   return (
     <div className='navbar'>
